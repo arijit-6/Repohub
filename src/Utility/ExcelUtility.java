@@ -1,12 +1,12 @@
 package Utility;
 
-public class Actions {
+public class ExcelUtility {
 
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Action click");
-		
+		System.out.println("excel");
+
 	}
 
 }
